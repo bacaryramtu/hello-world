@@ -1,2 +1,3 @@
 # hello-world
 just another repository
+hi am joe first time coding looking forward to learn more and get a far much better experience in programming and networking ....
